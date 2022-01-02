@@ -9,11 +9,11 @@ DMM WEBCAMPの学習コンテンツアプリケーションを完成させよう
 **↓投稿一覧画面**
 　※投稿内容は、実在しない題名・概要です。
 
-![投稿一覧画面](https://user-images.githubusercontent.com/86041660/147848357-402ec456-a52f-46af-a7c5-5c5d22dc6ced.png)
+![投稿一覧画面](https://user-images.githubusercontent.com/86041660/147867034-c78fd3f5-13a9-442c-a939-b8d17767fef2.png)
 
 **↓投稿詳細画面**
 
-![投稿詳細画面](https://user-images.githubusercontent.com/86041660/147848356-9d7e2957-d164-4cae-b6e7-1ac50f3e1110.png)
+![投稿詳細画面](https://user-images.githubusercontent.com/86041660/147867033-3c4460a5-eadb-427a-b988-dd7cb573384d.png)
 
 ## 使用ツール
 Cloud9
