@@ -22,6 +22,7 @@ Cloud9
 - Ruby 2.6.3
 - Ruby on Rails 5.2.6
 - RSpec
+- Rubocop
 - Slim
 
 ## 機能一覧
