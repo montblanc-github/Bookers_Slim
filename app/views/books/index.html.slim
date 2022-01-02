@@ -18,12 +18,4 @@ table.Table
 h3.NewBook
   | New book
 
-= form_with model:@book, local: true, class:"Form" do |f|
-  .FormField
-    = f.label :title, class: "FormField__label"
-    = f.text_field :title, class: "FormField__title"
-  .FormField
-    = f.label :body, class: "FormField__label"
-    = f.text_area :body, class: "FormField__body"
-  .FormActions
-    = f.submit "Create Book", class: "FormActions__btn"
+= render "form", book: @book
